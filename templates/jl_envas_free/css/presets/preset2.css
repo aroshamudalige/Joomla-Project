@@ -1,0 +1,145 @@
+a {
+  color: #ff9f1c;
+}
+a:hover {
+  color: #e88600;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #999;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #ff9f1c;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #fff !important;
+  padding-left: 30px !important;
+  background: #ff9f1c;
+}
+#offcanvas-toggler >i {
+  color: #fff;
+}
+#offcanvas-toggler >i:hover {
+  color: #ff9f1c;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #ff9f1c;
+  background-color: #ff9f1c;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #e88600;
+  background-color: #e88600;
+}
+.btn.btn-link:hover,
+.sppb-btn.sppb-btn-link:hover,
+.btn.btn-lg.btn-link:hover,
+.sppb-btn.sppb-btn-lg.sppb-btn-link:hover {
+  border-color: #ff9f1c;
+  background-color: #ff9f1c;
+}
+ul.social-icons >li a:hover {
+  color: #ff9f1c;
+}
+.sp-page-title {
+  background: #eaeaea;
+  border-top: 1px solid #f1f1f1;
+  border-bottom: 1px solid #f1f1f1;
+  color: #777;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #ff9f1c;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #ff9f1c;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #ff9f1c;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #ff9f1c;
+  color: #fff;
+}
+.search .btn-toolbar button {
+  background: #ff9f1c;
+}
+.post-format {
+  background: #ff9f1c;
+}
+.voting-symbol span.star.active:before {
+  color: #ff9f1c;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #e88600;
+}
+.entry-link,
+.entry-quote {
+  background: #ff9f1c;
+}
+blockquote {
+  border-color: #ff9f1c;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #ff9f1c;
+}
+#sp-footer {
+  background: #fff;
+}
+.sp-comingsoon body {
+  background-color: #ff9f1c;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #ff9f1c;
+  background-color: #ff9f1c;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #ff9f1c;
+  background-color: #ff9f1c;
+}
+select:focus,
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  box-shadow: none !important;
+  border: 1px solid #d3d3d3 !important;
+}
